@@ -9,7 +9,8 @@ public class Tugas_1 {
         System.out.print("Masukkan Nimmu\t: ");
         int nim = scanner.nextInt();
 
-        System.out.print("Hi "+nama);
-        System.out.print(" "+nim);
+        System.out.print("Hi "+ nama + " " + nim);
+
+        scanner.close();
     }
 }
