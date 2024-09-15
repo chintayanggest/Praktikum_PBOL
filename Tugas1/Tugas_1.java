@@ -1,7 +1,6 @@
-package Tugas1;
 import java.util.Scanner;
 
-public class Tugas1 {
+public class Tugas_1 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
