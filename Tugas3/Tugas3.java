@@ -1,10 +1,12 @@
+
+////////THIS IS NOT FINISHED YET ///////
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.event.*;
 import java.awt.*;
 import javax.swing.JComponent;
 
-public class TugasF {
+public class Tugas3 {
     public static void main(String[]args){
         //Build Frame 
         JFrame frame = new JFrame("Sign Up Form");
