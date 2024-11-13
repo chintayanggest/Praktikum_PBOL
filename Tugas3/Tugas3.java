@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
-public class TugasFF {
+public class Tugas3 {
     public static void main(String[] args) {
         // Build Frame
         JFrame frame = new JFrame("Sign Up Form");
